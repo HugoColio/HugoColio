@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://huco53.com" target="_blank"><img src="https://shields.io" alt="Mis Proyectos"></a>
+  <a href="https://webs.huco53.com" target="_blank"><img src="https://shields.io" alt="Mis Proyectos"></a>
   <a href="mailto:[huco5353@gmail.com]"><img src="https://shields.io" alt="Email"></a>
 </p>
 
@@ -16,7 +16,7 @@
 
 -  Actualmente cursando el **segundo año de ASIR**, enfocándome en la gestión avanzada de servidores, seguridad y redes.
 -  Administro y despliego de forma autónoma mis propios **proyectos web** en [webs.huco53.com](https://webs.huco53.com).
--  Aprendiendo activamente sobre **[Tecnología que estés viendo ahora, ej: Docker, Kubernetes, Ansible]** y automatización de entornos.
+-  Aprendiendo activamente sobre **[Git , GitHub , AWS , Azure]** y automatización de entornos.
 -  Dato curioso: Configurar arquitecturas de red y servidores me divierte tanto como optimizar el rendimiento de una base de datos.
 
 ---
@@ -50,7 +50,7 @@
 ###  Proyectos Destacados
 Todos mis despliegues activos y aplicaciones en producción se encuentran centralizados en mi portal personal:
 
- **[Visita webs.huco53.com](https://webs.huco53.com)**
+ **[Visita mis proyectos](https://webs.huco53.com)**
 
 
 
